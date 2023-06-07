@@ -1,0 +1,15 @@
+C:\Cursos\CSharp Pildoras\ColeccionesStackPilas\ColeccionesStackPilas\bin\Debug\net6.0\ColeccionesStackPilas.exe
+C:\Cursos\CSharp Pildoras\ColeccionesStackPilas\ColeccionesStackPilas\bin\Debug\net6.0\ColeccionesStackPilas.deps.json
+C:\Cursos\CSharp Pildoras\ColeccionesStackPilas\ColeccionesStackPilas\bin\Debug\net6.0\ColeccionesStackPilas.runtimeconfig.json
+C:\Cursos\CSharp Pildoras\ColeccionesStackPilas\ColeccionesStackPilas\bin\Debug\net6.0\ColeccionesStackPilas.dll
+C:\Cursos\CSharp Pildoras\ColeccionesStackPilas\ColeccionesStackPilas\bin\Debug\net6.0\ColeccionesStackPilas.pdb
+C:\Cursos\CSharp Pildoras\ColeccionesStackPilas\ColeccionesStackPilas\obj\Debug\net6.0\ColeccionesStackPilas.csproj.AssemblyReference.cache
+C:\Cursos\CSharp Pildoras\ColeccionesStackPilas\ColeccionesStackPilas\obj\Debug\net6.0\ColeccionesStackPilas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\CSharp Pildoras\ColeccionesStackPilas\ColeccionesStackPilas\obj\Debug\net6.0\ColeccionesStackPilas.AssemblyInfoInputs.cache
+C:\Cursos\CSharp Pildoras\ColeccionesStackPilas\ColeccionesStackPilas\obj\Debug\net6.0\ColeccionesStackPilas.AssemblyInfo.cs
+C:\Cursos\CSharp Pildoras\ColeccionesStackPilas\ColeccionesStackPilas\obj\Debug\net6.0\ColeccionesStackPilas.csproj.CoreCompileInputs.cache
+C:\Cursos\CSharp Pildoras\ColeccionesStackPilas\ColeccionesStackPilas\obj\Debug\net6.0\ColeccionesStackPilas.dll
+C:\Cursos\CSharp Pildoras\ColeccionesStackPilas\ColeccionesStackPilas\obj\Debug\net6.0\refint\ColeccionesStackPilas.dll
+C:\Cursos\CSharp Pildoras\ColeccionesStackPilas\ColeccionesStackPilas\obj\Debug\net6.0\ColeccionesStackPilas.pdb
+C:\Cursos\CSharp Pildoras\ColeccionesStackPilas\ColeccionesStackPilas\obj\Debug\net6.0\ColeccionesStackPilas.genruntimeconfig.cache
+C:\Cursos\CSharp Pildoras\ColeccionesStackPilas\ColeccionesStackPilas\obj\Debug\net6.0\ref\ColeccionesStackPilas.dll

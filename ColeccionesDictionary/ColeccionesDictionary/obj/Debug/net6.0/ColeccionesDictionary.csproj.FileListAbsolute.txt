@@ -1,0 +1,15 @@
+C:\Cursos\CSharp Pildoras\ColeccionesDictionary\ColeccionesDictionary\bin\Debug\net6.0\ColeccionesDictionary.exe
+C:\Cursos\CSharp Pildoras\ColeccionesDictionary\ColeccionesDictionary\bin\Debug\net6.0\ColeccionesDictionary.deps.json
+C:\Cursos\CSharp Pildoras\ColeccionesDictionary\ColeccionesDictionary\bin\Debug\net6.0\ColeccionesDictionary.runtimeconfig.json
+C:\Cursos\CSharp Pildoras\ColeccionesDictionary\ColeccionesDictionary\bin\Debug\net6.0\ColeccionesDictionary.dll
+C:\Cursos\CSharp Pildoras\ColeccionesDictionary\ColeccionesDictionary\bin\Debug\net6.0\ColeccionesDictionary.pdb
+C:\Cursos\CSharp Pildoras\ColeccionesDictionary\ColeccionesDictionary\obj\Debug\net6.0\ColeccionesDictionary.csproj.AssemblyReference.cache
+C:\Cursos\CSharp Pildoras\ColeccionesDictionary\ColeccionesDictionary\obj\Debug\net6.0\ColeccionesDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\CSharp Pildoras\ColeccionesDictionary\ColeccionesDictionary\obj\Debug\net6.0\ColeccionesDictionary.AssemblyInfoInputs.cache
+C:\Cursos\CSharp Pildoras\ColeccionesDictionary\ColeccionesDictionary\obj\Debug\net6.0\ColeccionesDictionary.AssemblyInfo.cs
+C:\Cursos\CSharp Pildoras\ColeccionesDictionary\ColeccionesDictionary\obj\Debug\net6.0\ColeccionesDictionary.csproj.CoreCompileInputs.cache
+C:\Cursos\CSharp Pildoras\ColeccionesDictionary\ColeccionesDictionary\obj\Debug\net6.0\ColeccionesDictionary.dll
+C:\Cursos\CSharp Pildoras\ColeccionesDictionary\ColeccionesDictionary\obj\Debug\net6.0\refint\ColeccionesDictionary.dll
+C:\Cursos\CSharp Pildoras\ColeccionesDictionary\ColeccionesDictionary\obj\Debug\net6.0\ColeccionesDictionary.pdb
+C:\Cursos\CSharp Pildoras\ColeccionesDictionary\ColeccionesDictionary\obj\Debug\net6.0\ColeccionesDictionary.genruntimeconfig.cache
+C:\Cursos\CSharp Pildoras\ColeccionesDictionary\ColeccionesDictionary\obj\Debug\net6.0\ref\ColeccionesDictionary.dll
