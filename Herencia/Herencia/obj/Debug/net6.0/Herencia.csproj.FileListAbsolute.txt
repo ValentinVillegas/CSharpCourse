@@ -1,0 +1,15 @@
+C:\Cursos\CSharp Pildoras\Herencia\Herencia\bin\Debug\net6.0\Herencia.exe
+C:\Cursos\CSharp Pildoras\Herencia\Herencia\bin\Debug\net6.0\Herencia.deps.json
+C:\Cursos\CSharp Pildoras\Herencia\Herencia\bin\Debug\net6.0\Herencia.runtimeconfig.json
+C:\Cursos\CSharp Pildoras\Herencia\Herencia\bin\Debug\net6.0\Herencia.dll
+C:\Cursos\CSharp Pildoras\Herencia\Herencia\bin\Debug\net6.0\Herencia.pdb
+C:\Cursos\CSharp Pildoras\Herencia\Herencia\obj\Debug\net6.0\Herencia.csproj.AssemblyReference.cache
+C:\Cursos\CSharp Pildoras\Herencia\Herencia\obj\Debug\net6.0\Herencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\CSharp Pildoras\Herencia\Herencia\obj\Debug\net6.0\Herencia.AssemblyInfoInputs.cache
+C:\Cursos\CSharp Pildoras\Herencia\Herencia\obj\Debug\net6.0\Herencia.AssemblyInfo.cs
+C:\Cursos\CSharp Pildoras\Herencia\Herencia\obj\Debug\net6.0\Herencia.csproj.CoreCompileInputs.cache
+C:\Cursos\CSharp Pildoras\Herencia\Herencia\obj\Debug\net6.0\Herencia.dll
+C:\Cursos\CSharp Pildoras\Herencia\Herencia\obj\Debug\net6.0\refint\Herencia.dll
+C:\Cursos\CSharp Pildoras\Herencia\Herencia\obj\Debug\net6.0\Herencia.pdb
+C:\Cursos\CSharp Pildoras\Herencia\Herencia\obj\Debug\net6.0\Herencia.genruntimeconfig.cache
+C:\Cursos\CSharp Pildoras\Herencia\Herencia\obj\Debug\net6.0\ref\Herencia.dll

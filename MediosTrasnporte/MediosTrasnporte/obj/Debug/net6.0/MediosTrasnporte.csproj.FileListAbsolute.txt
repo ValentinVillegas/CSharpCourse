@@ -1,0 +1,15 @@
+C:\Cursos\CSharp Pildoras\MediosTrasnporte\MediosTrasnporte\bin\Debug\net6.0\MediosTrasnporte.exe
+C:\Cursos\CSharp Pildoras\MediosTrasnporte\MediosTrasnporte\bin\Debug\net6.0\MediosTrasnporte.deps.json
+C:\Cursos\CSharp Pildoras\MediosTrasnporte\MediosTrasnporte\bin\Debug\net6.0\MediosTrasnporte.runtimeconfig.json
+C:\Cursos\CSharp Pildoras\MediosTrasnporte\MediosTrasnporte\bin\Debug\net6.0\MediosTrasnporte.dll
+C:\Cursos\CSharp Pildoras\MediosTrasnporte\MediosTrasnporte\bin\Debug\net6.0\MediosTrasnporte.pdb
+C:\Cursos\CSharp Pildoras\MediosTrasnporte\MediosTrasnporte\obj\Debug\net6.0\MediosTrasnporte.csproj.AssemblyReference.cache
+C:\Cursos\CSharp Pildoras\MediosTrasnporte\MediosTrasnporte\obj\Debug\net6.0\MediosTrasnporte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\CSharp Pildoras\MediosTrasnporte\MediosTrasnporte\obj\Debug\net6.0\MediosTrasnporte.AssemblyInfoInputs.cache
+C:\Cursos\CSharp Pildoras\MediosTrasnporte\MediosTrasnporte\obj\Debug\net6.0\MediosTrasnporte.AssemblyInfo.cs
+C:\Cursos\CSharp Pildoras\MediosTrasnporte\MediosTrasnporte\obj\Debug\net6.0\MediosTrasnporte.csproj.CoreCompileInputs.cache
+C:\Cursos\CSharp Pildoras\MediosTrasnporte\MediosTrasnporte\obj\Debug\net6.0\MediosTrasnporte.dll
+C:\Cursos\CSharp Pildoras\MediosTrasnporte\MediosTrasnporte\obj\Debug\net6.0\refint\MediosTrasnporte.dll
+C:\Cursos\CSharp Pildoras\MediosTrasnporte\MediosTrasnporte\obj\Debug\net6.0\MediosTrasnporte.pdb
+C:\Cursos\CSharp Pildoras\MediosTrasnporte\MediosTrasnporte\obj\Debug\net6.0\MediosTrasnporte.genruntimeconfig.cache
+C:\Cursos\CSharp Pildoras\MediosTrasnporte\MediosTrasnporte\obj\Debug\net6.0\ref\MediosTrasnporte.dll
