@@ -1,0 +1,15 @@
+C:\Cursos\CSharp Pildoras\AdivinarNumAleatorio\bin\Debug\net6.0\AdivinarNumAleatorio.exe
+C:\Cursos\CSharp Pildoras\AdivinarNumAleatorio\bin\Debug\net6.0\AdivinarNumAleatorio.deps.json
+C:\Cursos\CSharp Pildoras\AdivinarNumAleatorio\bin\Debug\net6.0\AdivinarNumAleatorio.runtimeconfig.json
+C:\Cursos\CSharp Pildoras\AdivinarNumAleatorio\bin\Debug\net6.0\AdivinarNumAleatorio.dll
+C:\Cursos\CSharp Pildoras\AdivinarNumAleatorio\bin\Debug\net6.0\AdivinarNumAleatorio.pdb
+C:\Cursos\CSharp Pildoras\AdivinarNumAleatorio\obj\Debug\net6.0\AdivinarNumAleatorio.csproj.AssemblyReference.cache
+C:\Cursos\CSharp Pildoras\AdivinarNumAleatorio\obj\Debug\net6.0\AdivinarNumAleatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\CSharp Pildoras\AdivinarNumAleatorio\obj\Debug\net6.0\AdivinarNumAleatorio.AssemblyInfoInputs.cache
+C:\Cursos\CSharp Pildoras\AdivinarNumAleatorio\obj\Debug\net6.0\AdivinarNumAleatorio.AssemblyInfo.cs
+C:\Cursos\CSharp Pildoras\AdivinarNumAleatorio\obj\Debug\net6.0\AdivinarNumAleatorio.csproj.CoreCompileInputs.cache
+C:\Cursos\CSharp Pildoras\AdivinarNumAleatorio\obj\Debug\net6.0\AdivinarNumAleatorio.dll
+C:\Cursos\CSharp Pildoras\AdivinarNumAleatorio\obj\Debug\net6.0\refint\AdivinarNumAleatorio.dll
+C:\Cursos\CSharp Pildoras\AdivinarNumAleatorio\obj\Debug\net6.0\AdivinarNumAleatorio.pdb
+C:\Cursos\CSharp Pildoras\AdivinarNumAleatorio\obj\Debug\net6.0\AdivinarNumAleatorio.genruntimeconfig.cache
+C:\Cursos\CSharp Pildoras\AdivinarNumAleatorio\obj\Debug\net6.0\ref\AdivinarNumAleatorio.dll

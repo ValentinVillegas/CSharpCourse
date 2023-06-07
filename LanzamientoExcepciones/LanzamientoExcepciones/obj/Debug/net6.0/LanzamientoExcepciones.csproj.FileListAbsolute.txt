@@ -1,0 +1,15 @@
+C:\Cursos\CSharp Pildoras\LanzamientoExcepciones\LanzamientoExcepciones\bin\Debug\net6.0\LanzamientoExcepciones.exe
+C:\Cursos\CSharp Pildoras\LanzamientoExcepciones\LanzamientoExcepciones\bin\Debug\net6.0\LanzamientoExcepciones.deps.json
+C:\Cursos\CSharp Pildoras\LanzamientoExcepciones\LanzamientoExcepciones\bin\Debug\net6.0\LanzamientoExcepciones.runtimeconfig.json
+C:\Cursos\CSharp Pildoras\LanzamientoExcepciones\LanzamientoExcepciones\bin\Debug\net6.0\LanzamientoExcepciones.dll
+C:\Cursos\CSharp Pildoras\LanzamientoExcepciones\LanzamientoExcepciones\bin\Debug\net6.0\LanzamientoExcepciones.pdb
+C:\Cursos\CSharp Pildoras\LanzamientoExcepciones\LanzamientoExcepciones\obj\Debug\net6.0\LanzamientoExcepciones.csproj.AssemblyReference.cache
+C:\Cursos\CSharp Pildoras\LanzamientoExcepciones\LanzamientoExcepciones\obj\Debug\net6.0\LanzamientoExcepciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\CSharp Pildoras\LanzamientoExcepciones\LanzamientoExcepciones\obj\Debug\net6.0\LanzamientoExcepciones.AssemblyInfoInputs.cache
+C:\Cursos\CSharp Pildoras\LanzamientoExcepciones\LanzamientoExcepciones\obj\Debug\net6.0\LanzamientoExcepciones.AssemblyInfo.cs
+C:\Cursos\CSharp Pildoras\LanzamientoExcepciones\LanzamientoExcepciones\obj\Debug\net6.0\LanzamientoExcepciones.csproj.CoreCompileInputs.cache
+C:\Cursos\CSharp Pildoras\LanzamientoExcepciones\LanzamientoExcepciones\obj\Debug\net6.0\LanzamientoExcepciones.dll
+C:\Cursos\CSharp Pildoras\LanzamientoExcepciones\LanzamientoExcepciones\obj\Debug\net6.0\refint\LanzamientoExcepciones.dll
+C:\Cursos\CSharp Pildoras\LanzamientoExcepciones\LanzamientoExcepciones\obj\Debug\net6.0\LanzamientoExcepciones.pdb
+C:\Cursos\CSharp Pildoras\LanzamientoExcepciones\LanzamientoExcepciones\obj\Debug\net6.0\LanzamientoExcepciones.genruntimeconfig.cache
+C:\Cursos\CSharp Pildoras\LanzamientoExcepciones\LanzamientoExcepciones\obj\Debug\net6.0\ref\LanzamientoExcepciones.dll
