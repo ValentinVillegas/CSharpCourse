@@ -1,0 +1,15 @@
+C:\Cursos\CSharp Pildoras\Lambdas\Lambdas\bin\Debug\net6.0\Lambdas.exe
+C:\Cursos\CSharp Pildoras\Lambdas\Lambdas\bin\Debug\net6.0\Lambdas.deps.json
+C:\Cursos\CSharp Pildoras\Lambdas\Lambdas\bin\Debug\net6.0\Lambdas.runtimeconfig.json
+C:\Cursos\CSharp Pildoras\Lambdas\Lambdas\bin\Debug\net6.0\Lambdas.dll
+C:\Cursos\CSharp Pildoras\Lambdas\Lambdas\bin\Debug\net6.0\Lambdas.pdb
+C:\Cursos\CSharp Pildoras\Lambdas\Lambdas\obj\Debug\net6.0\Lambdas.csproj.AssemblyReference.cache
+C:\Cursos\CSharp Pildoras\Lambdas\Lambdas\obj\Debug\net6.0\Lambdas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\CSharp Pildoras\Lambdas\Lambdas\obj\Debug\net6.0\Lambdas.AssemblyInfoInputs.cache
+C:\Cursos\CSharp Pildoras\Lambdas\Lambdas\obj\Debug\net6.0\Lambdas.AssemblyInfo.cs
+C:\Cursos\CSharp Pildoras\Lambdas\Lambdas\obj\Debug\net6.0\Lambdas.csproj.CoreCompileInputs.cache
+C:\Cursos\CSharp Pildoras\Lambdas\Lambdas\obj\Debug\net6.0\Lambdas.dll
+C:\Cursos\CSharp Pildoras\Lambdas\Lambdas\obj\Debug\net6.0\refint\Lambdas.dll
+C:\Cursos\CSharp Pildoras\Lambdas\Lambdas\obj\Debug\net6.0\Lambdas.pdb
+C:\Cursos\CSharp Pildoras\Lambdas\Lambdas\obj\Debug\net6.0\Lambdas.genruntimeconfig.cache
+C:\Cursos\CSharp Pildoras\Lambdas\Lambdas\obj\Debug\net6.0\ref\Lambdas.dll
