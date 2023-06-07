@@ -1,0 +1,15 @@
+C:\Cursos\CSharp Pildoras\Predicados\Predicados\bin\Debug\net6.0\Predicados.exe
+C:\Cursos\CSharp Pildoras\Predicados\Predicados\bin\Debug\net6.0\Predicados.deps.json
+C:\Cursos\CSharp Pildoras\Predicados\Predicados\bin\Debug\net6.0\Predicados.runtimeconfig.json
+C:\Cursos\CSharp Pildoras\Predicados\Predicados\bin\Debug\net6.0\Predicados.dll
+C:\Cursos\CSharp Pildoras\Predicados\Predicados\bin\Debug\net6.0\Predicados.pdb
+C:\Cursos\CSharp Pildoras\Predicados\Predicados\obj\Debug\net6.0\Predicados.csproj.AssemblyReference.cache
+C:\Cursos\CSharp Pildoras\Predicados\Predicados\obj\Debug\net6.0\Predicados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\CSharp Pildoras\Predicados\Predicados\obj\Debug\net6.0\Predicados.AssemblyInfoInputs.cache
+C:\Cursos\CSharp Pildoras\Predicados\Predicados\obj\Debug\net6.0\Predicados.AssemblyInfo.cs
+C:\Cursos\CSharp Pildoras\Predicados\Predicados\obj\Debug\net6.0\Predicados.csproj.CoreCompileInputs.cache
+C:\Cursos\CSharp Pildoras\Predicados\Predicados\obj\Debug\net6.0\Predicados.dll
+C:\Cursos\CSharp Pildoras\Predicados\Predicados\obj\Debug\net6.0\refint\Predicados.dll
+C:\Cursos\CSharp Pildoras\Predicados\Predicados\obj\Debug\net6.0\Predicados.pdb
+C:\Cursos\CSharp Pildoras\Predicados\Predicados\obj\Debug\net6.0\Predicados.genruntimeconfig.cache
+C:\Cursos\CSharp Pildoras\Predicados\Predicados\obj\Debug\net6.0\ref\Predicados.dll
