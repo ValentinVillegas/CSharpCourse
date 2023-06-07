@@ -19,3 +19,24 @@ C:\Cursos\CSharp Pildoras\PrimeraInterfaz\PrimeraInterfaz\obj\Debug\net6.0-windo
 C:\Cursos\CSharp Pildoras\PrimeraInterfaz\PrimeraInterfaz\obj\Debug\net6.0-windows\PrimeraInterfaz.pdb
 C:\Cursos\CSharp Pildoras\PrimeraInterfaz\PrimeraInterfaz\obj\Debug\net6.0-windows\PrimeraInterfaz.genruntimeconfig.cache
 C:\Cursos\CSharp Pildoras\PrimeraInterfaz\PrimeraInterfaz\obj\Debug\net6.0-windows\ref\PrimeraInterfaz.dll
+C:\Cursos\CSharpCourse\PrimeraInterfaz\PrimeraInterfaz\bin\Debug\net6.0-windows\PrimeraInterfaz.exe
+C:\Cursos\CSharpCourse\PrimeraInterfaz\PrimeraInterfaz\bin\Debug\net6.0-windows\PrimeraInterfaz.deps.json
+C:\Cursos\CSharpCourse\PrimeraInterfaz\PrimeraInterfaz\bin\Debug\net6.0-windows\PrimeraInterfaz.runtimeconfig.json
+C:\Cursos\CSharpCourse\PrimeraInterfaz\PrimeraInterfaz\bin\Debug\net6.0-windows\PrimeraInterfaz.dll
+C:\Cursos\CSharpCourse\PrimeraInterfaz\PrimeraInterfaz\bin\Debug\net6.0-windows\PrimeraInterfaz.pdb
+C:\Cursos\CSharpCourse\PrimeraInterfaz\PrimeraInterfaz\obj\Debug\net6.0-windows\PrimeraInterfaz.csproj.AssemblyReference.cache
+C:\Cursos\CSharpCourse\PrimeraInterfaz\PrimeraInterfaz\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Cursos\CSharpCourse\PrimeraInterfaz\PrimeraInterfaz\obj\Debug\net6.0-windows\App.g.cs
+C:\Cursos\CSharpCourse\PrimeraInterfaz\PrimeraInterfaz\obj\Debug\net6.0-windows\PrimeraInterfaz_MarkupCompile.cache
+C:\Cursos\CSharpCourse\PrimeraInterfaz\PrimeraInterfaz\obj\Debug\net6.0-windows\PrimeraInterfaz_MarkupCompile.lref
+C:\Cursos\CSharpCourse\PrimeraInterfaz\PrimeraInterfaz\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Cursos\CSharpCourse\PrimeraInterfaz\PrimeraInterfaz\obj\Debug\net6.0-windows\PrimeraInterfaz.g.resources
+C:\Cursos\CSharpCourse\PrimeraInterfaz\PrimeraInterfaz\obj\Debug\net6.0-windows\PrimeraInterfaz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\CSharpCourse\PrimeraInterfaz\PrimeraInterfaz\obj\Debug\net6.0-windows\PrimeraInterfaz.AssemblyInfoInputs.cache
+C:\Cursos\CSharpCourse\PrimeraInterfaz\PrimeraInterfaz\obj\Debug\net6.0-windows\PrimeraInterfaz.AssemblyInfo.cs
+C:\Cursos\CSharpCourse\PrimeraInterfaz\PrimeraInterfaz\obj\Debug\net6.0-windows\PrimeraInterfaz.csproj.CoreCompileInputs.cache
+C:\Cursos\CSharpCourse\PrimeraInterfaz\PrimeraInterfaz\obj\Debug\net6.0-windows\PrimeraInterfaz.dll
+C:\Cursos\CSharpCourse\PrimeraInterfaz\PrimeraInterfaz\obj\Debug\net6.0-windows\refint\PrimeraInterfaz.dll
+C:\Cursos\CSharpCourse\PrimeraInterfaz\PrimeraInterfaz\obj\Debug\net6.0-windows\PrimeraInterfaz.pdb
+C:\Cursos\CSharpCourse\PrimeraInterfaz\PrimeraInterfaz\obj\Debug\net6.0-windows\PrimeraInterfaz.genruntimeconfig.cache
+C:\Cursos\CSharpCourse\PrimeraInterfaz\PrimeraInterfaz\obj\Debug\net6.0-windows\ref\PrimeraInterfaz.dll

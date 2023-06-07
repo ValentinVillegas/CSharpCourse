@@ -5,9 +5,5 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:PrimeraInterfaz"
         mc:Ignorable="d"
-        Title="Primera Interfaz" Height="450" Width="800">
-    <Grid>
-        <Label Content="Hola Mundo!!" HorizontalAlignment="Center" VerticalAlignment="Center"/>
-        <Label Content="Prueba"></Label>
-    </Grid>
+        Title="Primera Interfaz" Height="450" Width="900">
 </Window>

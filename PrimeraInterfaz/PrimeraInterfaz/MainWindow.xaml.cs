@@ -23,6 +23,23 @@ namespace PrimeraInterfaz
         public MainWindow()
         {
             InitializeComponent();
+
+            Grid miGrid = new Grid();
+            this.Content = miGrid;
+
+            Button miBoton = new Button();
+
+            WrapPanel miWrap = new WrapPanel();
+            
+            TextBlock txt1 = new TextBlock() { Text = "Bloque 1"};
+            miWrap.Children.Add(txt1);
+            TextBlock txt2 = new TextBlock() { Text = "Bloque 2" };
+            miWrap.Children.Add(txt2);
+            TextBlock txt3 = new TextBlock() { Text = "Bloque 3" };
+            miWrap.Children.Add(txt3);
+
+            miBoton.Content = miWrap;
+            miGrid.Children.Add(miBoton);
         }
     }
 }
