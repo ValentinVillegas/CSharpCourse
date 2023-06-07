@@ -1,0 +1,15 @@
+C:\Cursos\CSharp Pildoras\ColeccionesListas\ColeccionesListas\bin\Debug\net6.0\ColeccionesListas.exe
+C:\Cursos\CSharp Pildoras\ColeccionesListas\ColeccionesListas\bin\Debug\net6.0\ColeccionesListas.deps.json
+C:\Cursos\CSharp Pildoras\ColeccionesListas\ColeccionesListas\bin\Debug\net6.0\ColeccionesListas.runtimeconfig.json
+C:\Cursos\CSharp Pildoras\ColeccionesListas\ColeccionesListas\bin\Debug\net6.0\ColeccionesListas.dll
+C:\Cursos\CSharp Pildoras\ColeccionesListas\ColeccionesListas\bin\Debug\net6.0\ColeccionesListas.pdb
+C:\Cursos\CSharp Pildoras\ColeccionesListas\ColeccionesListas\obj\Debug\net6.0\ColeccionesListas.csproj.AssemblyReference.cache
+C:\Cursos\CSharp Pildoras\ColeccionesListas\ColeccionesListas\obj\Debug\net6.0\ColeccionesListas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\CSharp Pildoras\ColeccionesListas\ColeccionesListas\obj\Debug\net6.0\ColeccionesListas.AssemblyInfoInputs.cache
+C:\Cursos\CSharp Pildoras\ColeccionesListas\ColeccionesListas\obj\Debug\net6.0\ColeccionesListas.AssemblyInfo.cs
+C:\Cursos\CSharp Pildoras\ColeccionesListas\ColeccionesListas\obj\Debug\net6.0\ColeccionesListas.csproj.CoreCompileInputs.cache
+C:\Cursos\CSharp Pildoras\ColeccionesListas\ColeccionesListas\obj\Debug\net6.0\ColeccionesListas.dll
+C:\Cursos\CSharp Pildoras\ColeccionesListas\ColeccionesListas\obj\Debug\net6.0\refint\ColeccionesListas.dll
+C:\Cursos\CSharp Pildoras\ColeccionesListas\ColeccionesListas\obj\Debug\net6.0\ColeccionesListas.pdb
+C:\Cursos\CSharp Pildoras\ColeccionesListas\ColeccionesListas\obj\Debug\net6.0\ColeccionesListas.genruntimeconfig.cache
+C:\Cursos\CSharp Pildoras\ColeccionesListas\ColeccionesListas\obj\Debug\net6.0\ref\ColeccionesListas.dll
