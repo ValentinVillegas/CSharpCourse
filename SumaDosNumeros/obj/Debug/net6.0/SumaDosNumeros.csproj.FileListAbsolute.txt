@@ -1,0 +1,15 @@
+C:\Cursos\CSharp Pildoras\SumaDosNumeros\bin\Debug\net6.0\SumaDosNumeros.exe
+C:\Cursos\CSharp Pildoras\SumaDosNumeros\bin\Debug\net6.0\SumaDosNumeros.deps.json
+C:\Cursos\CSharp Pildoras\SumaDosNumeros\bin\Debug\net6.0\SumaDosNumeros.runtimeconfig.json
+C:\Cursos\CSharp Pildoras\SumaDosNumeros\bin\Debug\net6.0\SumaDosNumeros.dll
+C:\Cursos\CSharp Pildoras\SumaDosNumeros\bin\Debug\net6.0\SumaDosNumeros.pdb
+C:\Cursos\CSharp Pildoras\SumaDosNumeros\obj\Debug\net6.0\SumaDosNumeros.csproj.AssemblyReference.cache
+C:\Cursos\CSharp Pildoras\SumaDosNumeros\obj\Debug\net6.0\SumaDosNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\CSharp Pildoras\SumaDosNumeros\obj\Debug\net6.0\SumaDosNumeros.AssemblyInfoInputs.cache
+C:\Cursos\CSharp Pildoras\SumaDosNumeros\obj\Debug\net6.0\SumaDosNumeros.AssemblyInfo.cs
+C:\Cursos\CSharp Pildoras\SumaDosNumeros\obj\Debug\net6.0\SumaDosNumeros.csproj.CoreCompileInputs.cache
+C:\Cursos\CSharp Pildoras\SumaDosNumeros\obj\Debug\net6.0\SumaDosNumeros.dll
+C:\Cursos\CSharp Pildoras\SumaDosNumeros\obj\Debug\net6.0\refint\SumaDosNumeros.dll
+C:\Cursos\CSharp Pildoras\SumaDosNumeros\obj\Debug\net6.0\SumaDosNumeros.pdb
+C:\Cursos\CSharp Pildoras\SumaDosNumeros\obj\Debug\net6.0\SumaDosNumeros.genruntimeconfig.cache
+C:\Cursos\CSharp Pildoras\SumaDosNumeros\obj\Debug\net6.0\ref\SumaDosNumeros.dll

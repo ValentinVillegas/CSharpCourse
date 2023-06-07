@@ -1,0 +1,15 @@
+C:\Cursos\CSharp Pildoras\SobrecargaYParametrosOpcionales\bin\Debug\net6.0\SobrecargaYParametrosOpcionales.exe
+C:\Cursos\CSharp Pildoras\SobrecargaYParametrosOpcionales\bin\Debug\net6.0\SobrecargaYParametrosOpcionales.deps.json
+C:\Cursos\CSharp Pildoras\SobrecargaYParametrosOpcionales\bin\Debug\net6.0\SobrecargaYParametrosOpcionales.runtimeconfig.json
+C:\Cursos\CSharp Pildoras\SobrecargaYParametrosOpcionales\bin\Debug\net6.0\SobrecargaYParametrosOpcionales.dll
+C:\Cursos\CSharp Pildoras\SobrecargaYParametrosOpcionales\bin\Debug\net6.0\SobrecargaYParametrosOpcionales.pdb
+C:\Cursos\CSharp Pildoras\SobrecargaYParametrosOpcionales\obj\Debug\net6.0\SobrecargaYParametrosOpcionales.csproj.AssemblyReference.cache
+C:\Cursos\CSharp Pildoras\SobrecargaYParametrosOpcionales\obj\Debug\net6.0\SobrecargaYParametrosOpcionales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\CSharp Pildoras\SobrecargaYParametrosOpcionales\obj\Debug\net6.0\SobrecargaYParametrosOpcionales.AssemblyInfoInputs.cache
+C:\Cursos\CSharp Pildoras\SobrecargaYParametrosOpcionales\obj\Debug\net6.0\SobrecargaYParametrosOpcionales.AssemblyInfo.cs
+C:\Cursos\CSharp Pildoras\SobrecargaYParametrosOpcionales\obj\Debug\net6.0\SobrecargaYParametrosOpcionales.csproj.CoreCompileInputs.cache
+C:\Cursos\CSharp Pildoras\SobrecargaYParametrosOpcionales\obj\Debug\net6.0\SobrecargaYParametrosOpcionales.dll
+C:\Cursos\CSharp Pildoras\SobrecargaYParametrosOpcionales\obj\Debug\net6.0\refint\SobrecargaYParametrosOpcionales.dll
+C:\Cursos\CSharp Pildoras\SobrecargaYParametrosOpcionales\obj\Debug\net6.0\SobrecargaYParametrosOpcionales.pdb
+C:\Cursos\CSharp Pildoras\SobrecargaYParametrosOpcionales\obj\Debug\net6.0\SobrecargaYParametrosOpcionales.genruntimeconfig.cache
+C:\Cursos\CSharp Pildoras\SobrecargaYParametrosOpcionales\obj\Debug\net6.0\ref\SobrecargaYParametrosOpcionales.dll
