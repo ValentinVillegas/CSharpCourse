@@ -1,0 +1,15 @@
+C:\Cursos\CSharp Pildoras\PrimeraApp\bin\Debug\net6.0\PrimeraApp.exe
+C:\Cursos\CSharp Pildoras\PrimeraApp\bin\Debug\net6.0\PrimeraApp.deps.json
+C:\Cursos\CSharp Pildoras\PrimeraApp\bin\Debug\net6.0\PrimeraApp.runtimeconfig.json
+C:\Cursos\CSharp Pildoras\PrimeraApp\bin\Debug\net6.0\PrimeraApp.dll
+C:\Cursos\CSharp Pildoras\PrimeraApp\bin\Debug\net6.0\PrimeraApp.pdb
+C:\Cursos\CSharp Pildoras\PrimeraApp\obj\Debug\net6.0\PrimeraApp.csproj.AssemblyReference.cache
+C:\Cursos\CSharp Pildoras\PrimeraApp\obj\Debug\net6.0\PrimeraApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\CSharp Pildoras\PrimeraApp\obj\Debug\net6.0\PrimeraApp.AssemblyInfoInputs.cache
+C:\Cursos\CSharp Pildoras\PrimeraApp\obj\Debug\net6.0\PrimeraApp.AssemblyInfo.cs
+C:\Cursos\CSharp Pildoras\PrimeraApp\obj\Debug\net6.0\PrimeraApp.csproj.CoreCompileInputs.cache
+C:\Cursos\CSharp Pildoras\PrimeraApp\obj\Debug\net6.0\PrimeraApp.dll
+C:\Cursos\CSharp Pildoras\PrimeraApp\obj\Debug\net6.0\refint\PrimeraApp.dll
+C:\Cursos\CSharp Pildoras\PrimeraApp\obj\Debug\net6.0\PrimeraApp.pdb
+C:\Cursos\CSharp Pildoras\PrimeraApp\obj\Debug\net6.0\PrimeraApp.genruntimeconfig.cache
+C:\Cursos\CSharp Pildoras\PrimeraApp\obj\Debug\net6.0\ref\PrimeraApp.dll
