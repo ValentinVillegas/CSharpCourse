@@ -1,0 +1,15 @@
+C:\Cursos\CSharp Pildoras\ColeccionesLinkedList\ColeccionesLinkedList\bin\Debug\net6.0\ColeccionesLinkedList.exe
+C:\Cursos\CSharp Pildoras\ColeccionesLinkedList\ColeccionesLinkedList\bin\Debug\net6.0\ColeccionesLinkedList.deps.json
+C:\Cursos\CSharp Pildoras\ColeccionesLinkedList\ColeccionesLinkedList\bin\Debug\net6.0\ColeccionesLinkedList.runtimeconfig.json
+C:\Cursos\CSharp Pildoras\ColeccionesLinkedList\ColeccionesLinkedList\bin\Debug\net6.0\ColeccionesLinkedList.dll
+C:\Cursos\CSharp Pildoras\ColeccionesLinkedList\ColeccionesLinkedList\bin\Debug\net6.0\ColeccionesLinkedList.pdb
+C:\Cursos\CSharp Pildoras\ColeccionesLinkedList\ColeccionesLinkedList\obj\Debug\net6.0\ColeccionesLinkedList.csproj.AssemblyReference.cache
+C:\Cursos\CSharp Pildoras\ColeccionesLinkedList\ColeccionesLinkedList\obj\Debug\net6.0\ColeccionesLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\CSharp Pildoras\ColeccionesLinkedList\ColeccionesLinkedList\obj\Debug\net6.0\ColeccionesLinkedList.AssemblyInfoInputs.cache
+C:\Cursos\CSharp Pildoras\ColeccionesLinkedList\ColeccionesLinkedList\obj\Debug\net6.0\ColeccionesLinkedList.AssemblyInfo.cs
+C:\Cursos\CSharp Pildoras\ColeccionesLinkedList\ColeccionesLinkedList\obj\Debug\net6.0\ColeccionesLinkedList.csproj.CoreCompileInputs.cache
+C:\Cursos\CSharp Pildoras\ColeccionesLinkedList\ColeccionesLinkedList\obj\Debug\net6.0\ColeccionesLinkedList.dll
+C:\Cursos\CSharp Pildoras\ColeccionesLinkedList\ColeccionesLinkedList\obj\Debug\net6.0\refint\ColeccionesLinkedList.dll
+C:\Cursos\CSharp Pildoras\ColeccionesLinkedList\ColeccionesLinkedList\obj\Debug\net6.0\ColeccionesLinkedList.pdb
+C:\Cursos\CSharp Pildoras\ColeccionesLinkedList\ColeccionesLinkedList\obj\Debug\net6.0\ColeccionesLinkedList.genruntimeconfig.cache
+C:\Cursos\CSharp Pildoras\ColeccionesLinkedList\ColeccionesLinkedList\obj\Debug\net6.0\ref\ColeccionesLinkedList.dll

@@ -1,0 +1,15 @@
+C:\Cursos\CSharp Pildoras\ColeccionesQueueColas\ColeccionesQueueColas\bin\Debug\net6.0\ColeccionesQueueColas.exe
+C:\Cursos\CSharp Pildoras\ColeccionesQueueColas\ColeccionesQueueColas\bin\Debug\net6.0\ColeccionesQueueColas.deps.json
+C:\Cursos\CSharp Pildoras\ColeccionesQueueColas\ColeccionesQueueColas\bin\Debug\net6.0\ColeccionesQueueColas.runtimeconfig.json
+C:\Cursos\CSharp Pildoras\ColeccionesQueueColas\ColeccionesQueueColas\bin\Debug\net6.0\ColeccionesQueueColas.dll
+C:\Cursos\CSharp Pildoras\ColeccionesQueueColas\ColeccionesQueueColas\bin\Debug\net6.0\ColeccionesQueueColas.pdb
+C:\Cursos\CSharp Pildoras\ColeccionesQueueColas\ColeccionesQueueColas\obj\Debug\net6.0\ColeccionesQueueColas.csproj.AssemblyReference.cache
+C:\Cursos\CSharp Pildoras\ColeccionesQueueColas\ColeccionesQueueColas\obj\Debug\net6.0\ColeccionesQueueColas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\CSharp Pildoras\ColeccionesQueueColas\ColeccionesQueueColas\obj\Debug\net6.0\ColeccionesQueueColas.AssemblyInfoInputs.cache
+C:\Cursos\CSharp Pildoras\ColeccionesQueueColas\ColeccionesQueueColas\obj\Debug\net6.0\ColeccionesQueueColas.AssemblyInfo.cs
+C:\Cursos\CSharp Pildoras\ColeccionesQueueColas\ColeccionesQueueColas\obj\Debug\net6.0\ColeccionesQueueColas.csproj.CoreCompileInputs.cache
+C:\Cursos\CSharp Pildoras\ColeccionesQueueColas\ColeccionesQueueColas\obj\Debug\net6.0\ColeccionesQueueColas.dll
+C:\Cursos\CSharp Pildoras\ColeccionesQueueColas\ColeccionesQueueColas\obj\Debug\net6.0\refint\ColeccionesQueueColas.dll
+C:\Cursos\CSharp Pildoras\ColeccionesQueueColas\ColeccionesQueueColas\obj\Debug\net6.0\ColeccionesQueueColas.pdb
+C:\Cursos\CSharp Pildoras\ColeccionesQueueColas\ColeccionesQueueColas\obj\Debug\net6.0\ColeccionesQueueColas.genruntimeconfig.cache
+C:\Cursos\CSharp Pildoras\ColeccionesQueueColas\ColeccionesQueueColas\obj\Debug\net6.0\ref\ColeccionesQueueColas.dll
