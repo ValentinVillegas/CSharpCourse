@@ -1,0 +1,15 @@
+C:\Cursos\CSharp Pildoras\Genericos\Genericos\bin\Debug\net6.0\Genericos.exe
+C:\Cursos\CSharp Pildoras\Genericos\Genericos\bin\Debug\net6.0\Genericos.deps.json
+C:\Cursos\CSharp Pildoras\Genericos\Genericos\bin\Debug\net6.0\Genericos.runtimeconfig.json
+C:\Cursos\CSharp Pildoras\Genericos\Genericos\bin\Debug\net6.0\Genericos.dll
+C:\Cursos\CSharp Pildoras\Genericos\Genericos\bin\Debug\net6.0\Genericos.pdb
+C:\Cursos\CSharp Pildoras\Genericos\Genericos\obj\Debug\net6.0\Genericos.csproj.AssemblyReference.cache
+C:\Cursos\CSharp Pildoras\Genericos\Genericos\obj\Debug\net6.0\Genericos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\CSharp Pildoras\Genericos\Genericos\obj\Debug\net6.0\Genericos.AssemblyInfoInputs.cache
+C:\Cursos\CSharp Pildoras\Genericos\Genericos\obj\Debug\net6.0\Genericos.AssemblyInfo.cs
+C:\Cursos\CSharp Pildoras\Genericos\Genericos\obj\Debug\net6.0\Genericos.csproj.CoreCompileInputs.cache
+C:\Cursos\CSharp Pildoras\Genericos\Genericos\obj\Debug\net6.0\Genericos.dll
+C:\Cursos\CSharp Pildoras\Genericos\Genericos\obj\Debug\net6.0\refint\Genericos.dll
+C:\Cursos\CSharp Pildoras\Genericos\Genericos\obj\Debug\net6.0\Genericos.pdb
+C:\Cursos\CSharp Pildoras\Genericos\Genericos\obj\Debug\net6.0\Genericos.genruntimeconfig.cache
+C:\Cursos\CSharp Pildoras\Genericos\Genericos\obj\Debug\net6.0\ref\Genericos.dll

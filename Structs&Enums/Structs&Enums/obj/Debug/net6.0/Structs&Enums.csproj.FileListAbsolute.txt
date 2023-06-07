@@ -1,0 +1,15 @@
+C:\Cursos\CSharp Pildoras\Structs&Enums\Structs&Enums\bin\Debug\net6.0\Structs&Enums.exe
+C:\Cursos\CSharp Pildoras\Structs&Enums\Structs&Enums\bin\Debug\net6.0\Structs&Enums.deps.json
+C:\Cursos\CSharp Pildoras\Structs&Enums\Structs&Enums\bin\Debug\net6.0\Structs&Enums.runtimeconfig.json
+C:\Cursos\CSharp Pildoras\Structs&Enums\Structs&Enums\bin\Debug\net6.0\Structs&Enums.dll
+C:\Cursos\CSharp Pildoras\Structs&Enums\Structs&Enums\bin\Debug\net6.0\Structs&Enums.pdb
+C:\Cursos\CSharp Pildoras\Structs&Enums\Structs&Enums\obj\Debug\net6.0\Structs&Enums.csproj.AssemblyReference.cache
+C:\Cursos\CSharp Pildoras\Structs&Enums\Structs&Enums\obj\Debug\net6.0\Structs&Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\CSharp Pildoras\Structs&Enums\Structs&Enums\obj\Debug\net6.0\Structs&Enums.AssemblyInfoInputs.cache
+C:\Cursos\CSharp Pildoras\Structs&Enums\Structs&Enums\obj\Debug\net6.0\Structs&Enums.AssemblyInfo.cs
+C:\Cursos\CSharp Pildoras\Structs&Enums\Structs&Enums\obj\Debug\net6.0\Structs&Enums.csproj.CoreCompileInputs.cache
+C:\Cursos\CSharp Pildoras\Structs&Enums\Structs&Enums\obj\Debug\net6.0\Structs&Enums.dll
+C:\Cursos\CSharp Pildoras\Structs&Enums\Structs&Enums\obj\Debug\net6.0\refint\Structs&Enums.dll
+C:\Cursos\CSharp Pildoras\Structs&Enums\Structs&Enums\obj\Debug\net6.0\Structs&Enums.pdb
+C:\Cursos\CSharp Pildoras\Structs&Enums\Structs&Enums\obj\Debug\net6.0\Structs&Enums.genruntimeconfig.cache
+C:\Cursos\CSharp Pildoras\Structs&Enums\Structs&Enums\obj\Debug\net6.0\ref\Structs&Enums.dll
