@@ -1,0 +1,15 @@
+C:\Cursos\CSharp Pildoras\UsoCoches\UsoCoches\obj\Debug\net6.0\UsoCoches.csproj.AssemblyReference.cache
+C:\Cursos\CSharp Pildoras\UsoCoches\UsoCoches\obj\Debug\net6.0\UsoCoches.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\CSharp Pildoras\UsoCoches\UsoCoches\obj\Debug\net6.0\UsoCoches.AssemblyInfoInputs.cache
+C:\Cursos\CSharp Pildoras\UsoCoches\UsoCoches\obj\Debug\net6.0\UsoCoches.AssemblyInfo.cs
+C:\Cursos\CSharp Pildoras\UsoCoches\UsoCoches\obj\Debug\net6.0\UsoCoches.csproj.CoreCompileInputs.cache
+C:\Cursos\CSharp Pildoras\UsoCoches\UsoCoches\bin\Debug\net6.0\UsoCoches.exe
+C:\Cursos\CSharp Pildoras\UsoCoches\UsoCoches\bin\Debug\net6.0\UsoCoches.deps.json
+C:\Cursos\CSharp Pildoras\UsoCoches\UsoCoches\bin\Debug\net6.0\UsoCoches.runtimeconfig.json
+C:\Cursos\CSharp Pildoras\UsoCoches\UsoCoches\bin\Debug\net6.0\UsoCoches.dll
+C:\Cursos\CSharp Pildoras\UsoCoches\UsoCoches\bin\Debug\net6.0\UsoCoches.pdb
+C:\Cursos\CSharp Pildoras\UsoCoches\UsoCoches\obj\Debug\net6.0\UsoCoches.dll
+C:\Cursos\CSharp Pildoras\UsoCoches\UsoCoches\obj\Debug\net6.0\refint\UsoCoches.dll
+C:\Cursos\CSharp Pildoras\UsoCoches\UsoCoches\obj\Debug\net6.0\UsoCoches.pdb
+C:\Cursos\CSharp Pildoras\UsoCoches\UsoCoches\obj\Debug\net6.0\UsoCoches.genruntimeconfig.cache
+C:\Cursos\CSharp Pildoras\UsoCoches\UsoCoches\obj\Debug\net6.0\ref\UsoCoches.dll
