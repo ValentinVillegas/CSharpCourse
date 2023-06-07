@@ -1,0 +1,15 @@
+C:\Cursos\CSharp Pildoras\AreaCirculo\bin\Debug\net6.0\AreaCirculo.exe
+C:\Cursos\CSharp Pildoras\AreaCirculo\bin\Debug\net6.0\AreaCirculo.deps.json
+C:\Cursos\CSharp Pildoras\AreaCirculo\bin\Debug\net6.0\AreaCirculo.runtimeconfig.json
+C:\Cursos\CSharp Pildoras\AreaCirculo\bin\Debug\net6.0\AreaCirculo.dll
+C:\Cursos\CSharp Pildoras\AreaCirculo\bin\Debug\net6.0\AreaCirculo.pdb
+C:\Cursos\CSharp Pildoras\AreaCirculo\obj\Debug\net6.0\AreaCirculo.csproj.AssemblyReference.cache
+C:\Cursos\CSharp Pildoras\AreaCirculo\obj\Debug\net6.0\AreaCirculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\CSharp Pildoras\AreaCirculo\obj\Debug\net6.0\AreaCirculo.AssemblyInfoInputs.cache
+C:\Cursos\CSharp Pildoras\AreaCirculo\obj\Debug\net6.0\AreaCirculo.AssemblyInfo.cs
+C:\Cursos\CSharp Pildoras\AreaCirculo\obj\Debug\net6.0\AreaCirculo.csproj.CoreCompileInputs.cache
+C:\Cursos\CSharp Pildoras\AreaCirculo\obj\Debug\net6.0\AreaCirculo.dll
+C:\Cursos\CSharp Pildoras\AreaCirculo\obj\Debug\net6.0\refint\AreaCirculo.dll
+C:\Cursos\CSharp Pildoras\AreaCirculo\obj\Debug\net6.0\AreaCirculo.pdb
+C:\Cursos\CSharp Pildoras\AreaCirculo\obj\Debug\net6.0\AreaCirculo.genruntimeconfig.cache
+C:\Cursos\CSharp Pildoras\AreaCirculo\obj\Debug\net6.0\ref\AreaCirculo.dll
