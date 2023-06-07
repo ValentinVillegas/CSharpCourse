@@ -1,0 +1,15 @@
+C:\Cursos\CSharp Pildoras\AvisosVarios\AvisosVarios\bin\Debug\net6.0\AvisosVarios.exe
+C:\Cursos\CSharp Pildoras\AvisosVarios\AvisosVarios\bin\Debug\net6.0\AvisosVarios.deps.json
+C:\Cursos\CSharp Pildoras\AvisosVarios\AvisosVarios\bin\Debug\net6.0\AvisosVarios.runtimeconfig.json
+C:\Cursos\CSharp Pildoras\AvisosVarios\AvisosVarios\bin\Debug\net6.0\AvisosVarios.dll
+C:\Cursos\CSharp Pildoras\AvisosVarios\AvisosVarios\bin\Debug\net6.0\AvisosVarios.pdb
+C:\Cursos\CSharp Pildoras\AvisosVarios\AvisosVarios\obj\Debug\net6.0\AvisosVarios.csproj.AssemblyReference.cache
+C:\Cursos\CSharp Pildoras\AvisosVarios\AvisosVarios\obj\Debug\net6.0\AvisosVarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\CSharp Pildoras\AvisosVarios\AvisosVarios\obj\Debug\net6.0\AvisosVarios.AssemblyInfoInputs.cache
+C:\Cursos\CSharp Pildoras\AvisosVarios\AvisosVarios\obj\Debug\net6.0\AvisosVarios.AssemblyInfo.cs
+C:\Cursos\CSharp Pildoras\AvisosVarios\AvisosVarios\obj\Debug\net6.0\AvisosVarios.csproj.CoreCompileInputs.cache
+C:\Cursos\CSharp Pildoras\AvisosVarios\AvisosVarios\obj\Debug\net6.0\AvisosVarios.dll
+C:\Cursos\CSharp Pildoras\AvisosVarios\AvisosVarios\obj\Debug\net6.0\refint\AvisosVarios.dll
+C:\Cursos\CSharp Pildoras\AvisosVarios\AvisosVarios\obj\Debug\net6.0\AvisosVarios.pdb
+C:\Cursos\CSharp Pildoras\AvisosVarios\AvisosVarios\obj\Debug\net6.0\AvisosVarios.genruntimeconfig.cache
+C:\Cursos\CSharp Pildoras\AvisosVarios\AvisosVarios\obj\Debug\net6.0\ref\AvisosVarios.dll

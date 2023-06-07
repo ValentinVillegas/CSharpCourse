@@ -1,0 +1,15 @@
+C:\Cursos\CSharp Pildoras\PropiedadesAcceso\PropiedadesAcceso\bin\Debug\net6.0\PropiedadesAcceso.exe
+C:\Cursos\CSharp Pildoras\PropiedadesAcceso\PropiedadesAcceso\bin\Debug\net6.0\PropiedadesAcceso.deps.json
+C:\Cursos\CSharp Pildoras\PropiedadesAcceso\PropiedadesAcceso\bin\Debug\net6.0\PropiedadesAcceso.runtimeconfig.json
+C:\Cursos\CSharp Pildoras\PropiedadesAcceso\PropiedadesAcceso\bin\Debug\net6.0\PropiedadesAcceso.dll
+C:\Cursos\CSharp Pildoras\PropiedadesAcceso\PropiedadesAcceso\bin\Debug\net6.0\PropiedadesAcceso.pdb
+C:\Cursos\CSharp Pildoras\PropiedadesAcceso\PropiedadesAcceso\obj\Debug\net6.0\PropiedadesAcceso.csproj.AssemblyReference.cache
+C:\Cursos\CSharp Pildoras\PropiedadesAcceso\PropiedadesAcceso\obj\Debug\net6.0\PropiedadesAcceso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\CSharp Pildoras\PropiedadesAcceso\PropiedadesAcceso\obj\Debug\net6.0\PropiedadesAcceso.AssemblyInfoInputs.cache
+C:\Cursos\CSharp Pildoras\PropiedadesAcceso\PropiedadesAcceso\obj\Debug\net6.0\PropiedadesAcceso.AssemblyInfo.cs
+C:\Cursos\CSharp Pildoras\PropiedadesAcceso\PropiedadesAcceso\obj\Debug\net6.0\PropiedadesAcceso.csproj.CoreCompileInputs.cache
+C:\Cursos\CSharp Pildoras\PropiedadesAcceso\PropiedadesAcceso\obj\Debug\net6.0\PropiedadesAcceso.dll
+C:\Cursos\CSharp Pildoras\PropiedadesAcceso\PropiedadesAcceso\obj\Debug\net6.0\refint\PropiedadesAcceso.dll
+C:\Cursos\CSharp Pildoras\PropiedadesAcceso\PropiedadesAcceso\obj\Debug\net6.0\PropiedadesAcceso.pdb
+C:\Cursos\CSharp Pildoras\PropiedadesAcceso\PropiedadesAcceso\obj\Debug\net6.0\PropiedadesAcceso.genruntimeconfig.cache
+C:\Cursos\CSharp Pildoras\PropiedadesAcceso\PropiedadesAcceso\obj\Debug\net6.0\ref\PropiedadesAcceso.dll
