@@ -8,6 +8,6 @@
         Title="Primera Interfaz" Height="450" Width="800">
     <Grid>
         <Label Content="Hola Mundo!!" HorizontalAlignment="Center" VerticalAlignment="Center"/>
-
+        <Label Content="Prueba"></Label>
     </Grid>
 </Window>
