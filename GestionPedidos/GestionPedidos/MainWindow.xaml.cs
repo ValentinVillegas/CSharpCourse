@@ -13,6 +13,8 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using System.Data.SqlClient;
+using System.Data;
 
 namespace GestionPedidos
 {
@@ -21,10 +23,56 @@ namespace GestionPedidos
     /// </summary>
     public partial class MainWindow : Window
     {
+        SqlConnection miConexionSQL;
+
         public MainWindow()
         {
             InitializeComponent();
-            string miConexion = ConfigurationManager.ConnectionStrings["GestionPedidos.Properties.Settings.GestionPedidosConnectionString"].ConnectionString;
+            string cadenaConexion = ConfigurationManager.ConnectionStrings["GestionPedidos.Properties.Settings.GestionPedidosConnectionString"].ConnectionString;
+            miConexionSQL = new SqlConnection(cadenaConexion);
+            CargarClientes();
+        }
+
+        private void CargarClientes()
+        {
+            string sql = "SELECT * FROM Cliente";
+            SqlDataAdapter adaptador = new SqlDataAdapter(sql, miConexionSQL);
+
+            using (adaptador)
+            {
+                DataTable dtClientes = new DataTable();
+                adaptador.Fill(dtClientes);
+
+                lstClientes.DisplayMemberPath = "Nombre";
+                lstClientes.SelectedValuePath = "Id";
+                lstClientes.ItemsSource = dtClientes.DefaultView;
+            }
+        }
+
+        private void CargarPedidosCliente()
+        {
+            string sql = "SELECT * FROM Pedido WHERE CveCliente = @CveCliente";
+
+            SqlCommand comando = new SqlCommand(sql, miConexionSQL);
+
+            SqlDataAdapter adaptador = new SqlDataAdapter(comando);
+
+            using (adaptador)
+            {
+                comando.Parameters.AddWithValue("@CveCliente", lstClientes.SelectedValue);
+
+                DataTable dtPedidos = new DataTable();
+                adaptador.Fill(dtPedidos);
+
+                lstPedidosCte.DisplayMemberPath = "FechaPedido";
+                lstPedidosCte.SelectedValuePath = "Id";
+                lstPedidosCte.ItemsSource = dtPedidos.DefaultView;
+            }
+        }
+
+        private void lstClientes_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            CargarPedidosCliente();
         }
     }
 }
