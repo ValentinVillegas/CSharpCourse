@@ -1,0 +1,31 @@
+﻿<Window x:Class="InterfaceINotifyPropertyChanged.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:InterfaceINotifyPropertyChanged"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" ></ColumnDefinition>
+            <ColumnDefinition Width="3*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        
+        <Label Content="Nombre:" Grid.Row="1" Grid.Column="0" HorizontalAlignment="Right" Margin="10" Height="25"/>
+        <TextBox Width="200" Height="25" Margin="10" Text="{Binding Path=Nombre, Mode=TwoWay}" Grid.Row="1" Grid.Column="1" HorizontalAlignment="Left"/>
+
+        <Label Content="Apellido:" Grid.Row="2" Grid.Column="0" HorizontalAlignment="Right" Margin="10" Height="25"/>
+        <TextBox Width="200" Height="25" Margin="10" Text="{Binding Path=Apellido, Mode=TwoWay}" Grid.Row="2" Grid.Column="1" HorizontalAlignment="Left"/>
+
+        <Label Content="Nombre Completo:" Grid.Row="3" Grid.Column="0" HorizontalAlignment="Right" Margin="10" Height="25"/>
+        <TextBox Width="200" Height="25" Margin="10" Text="{Binding Path=NombreCompleto, Mode=TwoWay}" Grid.Row="3" Grid.Column="1" HorizontalAlignment="Left"/>
+    </Grid>
+</Window>
