@@ -5,12 +5,19 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:GestionPedidos"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="CRUD" Height="450" Width="800">
     <Grid>
-        <Label Content="Clientes" HorizontalAlignment="Left" Margin="109,18,0,0" VerticalAlignment="Top" FontSize="20" FontWeight="Bold"/>
-        <ListBox Name="lstClientes" Margin="10,60,507,217" SelectionChanged="lstClientes_SelectionChanged"/>
-        <Label Content="Pedidos" HorizontalAlignment="Left" Margin="493,18,0,0" VerticalAlignment="Top" FontSize="20" FontWeight="Bold"/>
-        <ListBox Name="lstPedidosCte" Margin="388,60,119,217"/>
+        <Label Content="Clientes" HorizontalAlignment="Left" Margin="151,18,0,0" VerticalAlignment="Top" FontSize="20" FontWeight="Bold"/>
+        <ListBox Name="lstClientes" Margin="52,55,465,193" MouseDoubleClick="lstClientes_MouseDoubleClick"/>
+        <Button Name="btnEliminaCte" Content="Eliminar Cliente" HorizontalAlignment="Left" Height="23" Margin="235,246,0,0" VerticalAlignment="Top" Width="100" FontSize="14" Click="btnEliminaCte_Click"/>
+        <Button Name="btnModificaCte" Content="Modificar Cliente" HorizontalAlignment="Left" Height="23" Margin="109,246,0,0" VerticalAlignment="Top" Width="113" FontSize="14" Click="btnModificaCte_Click"/>
 
+        <Label Content="Pedidos" HorizontalAlignment="Left" Margin="535,18,0,0" VerticalAlignment="Top" FontSize="20" FontWeight="Bold"/>
+        <ListBox Name="lstPedidosCte" Margin="430,60,77,193"/>
+        <Button Name="btnEliminarPedido" Content="Eliminar Pedido" HorizontalAlignment="Left" Margin="623,246,0,0" VerticalAlignment="Top" FontSize="14" Click="btnEliminarPedido_Click" Height="23" Width="100"/>
+
+        <Label Content="Nuevo Cliente" HorizontalAlignment="Left" Margin="52,305,0,0" VerticalAlignment="Top" FontSize="14"/>
+        <TextBox Name="txtCliente" HorizontalAlignment="Left" Height="24" Margin="52,339,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="283"/>
+        <Button Content="Guardar Cliente" Name="btnGuardarCliente" HorizontalAlignment="Left" Height="23" Margin="235,368,0,0" VerticalAlignment="Top" Width="100" FontSize="14" Click="btnGuardarCliente_Click"/>
     </Grid>
 </Window>
